@@ -19,8 +19,7 @@ public class Name {
 		NoCo(nome,cognome);
 		System.out.println("ORDINE COGNOME NOME");
 		CoNo(nome,cognome);
-		System.out.println("Saluto");
-		titolo(sesso, nome, cognome);
+
 	}
 	public static void Iniziali(String iniziale , String iniziale2){
 
